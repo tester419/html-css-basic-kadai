@@ -7,9 +7,9 @@ body{
   text-align: center;
 }
 
-.h1{
+h1{
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 200%;
+  font-size: 2rem;
 }
 
 .skyblue{
